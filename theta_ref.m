@@ -1,0 +1,5 @@
+function x = theta_ref(u)
+x(1) = 0; %x_ref
+x(2) = 0; %x_ref_dot
+x(3) = 0; %x_ref_ddot
+end
